@@ -18,7 +18,7 @@ This project is open-source under the MIT license.
 
 ## 📷 Example Image
 
-![Captcha Example](exemplo/exemploimg.jpg)
+![Captcha Example](exemplo/exemploimg.jpeg)
 
 ### Dataset: https://www.kaggle.com/datasets/huthayfahodeb/captcha-dataset
 
