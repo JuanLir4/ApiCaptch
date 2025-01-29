@@ -16,5 +16,11 @@ This repository contains a complete Deep Learning project for recognizing 6-digi
 ## 📖 License
 This project is open-source under the MIT license.
 
+## 📷 Example Image
+
+![Captcha Example](exemplo/exemploimg.jpg)
+
 ### Dataset: https://www.kaggle.com/datasets/huthayfahodeb/captcha-dataset
+
+
 
