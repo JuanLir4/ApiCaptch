@@ -18,4 +18,6 @@ Este repositório contém um projeto completo de Deep Learning para reconhecimen
 ## 📖 Licença
 Este projeto é de código aberto sob a licença MIT.
 
+# DataSet usado: https://www.kaggle.com/datasets/huthayfahodeb/captcha-dataset
+
 
